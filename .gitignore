@@ -1,0 +1,7 @@
+# local database (re-created automatically with demo data)
+procurement.db
+__pycache__/
+*.pyc
+# NEVER commit your API key
+.streamlit/secrets.toml
+.env
